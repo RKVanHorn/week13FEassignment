@@ -1,0 +1,18 @@
+#loginForm {
+  margin: auto;
+  background-color: rgba(139, 139, 139, 0.336);
+  border-style: solid;
+  border-color: black;
+  padding: 2rem;
+  border-radius: 3rem;
+  max-width: 50vw;
+}
+
+#nav-bar {
+  margin-bottom: 10rem;
+}
+
+#root {
+  min-height: 100vh;
+  background-color: rgb(143, 175, 245, 0.5);
+}
